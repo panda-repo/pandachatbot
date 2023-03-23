@@ -5,12 +5,11 @@
     A simple Chat-Bot written in Pyrogram using Mongodb.
 </h4>
 <p align="center">
-    <a href="https://t.me/TheYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://t.me/MyuProject> Support Channel </a> •
 </p>
     
 
-# Yukki Chat Bot
+# Panda Chat Bot
 A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymous Identity, Supports Groups. Works Similarly like Livegram Bot
 
 ## 🖇 Prerequisites
