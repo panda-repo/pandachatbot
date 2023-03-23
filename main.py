@@ -1,32 +1,3 @@
-
-panda-repo
-/
-chatbot
-Public
-forked from TeamYukki/YukkiChatBot
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-chatbot/main.py
-@axrav
-axrav formatting
- 1 contributor
-314 lines (292 sloc)  11.3 KB
-#
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/YukkiChatBot >.
-#
-# This file is part of < https://github.com/TeamYukki/YukkiChatBot > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiChatBot/blob/master/LICENSE >
-#
-# All rights reserved.
-#
-
 import asyncio
 from sys import version as pyver
 
